@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+    --weather-primary: #00668a;
+    --weather-secondry: #004E71;
+} */
+/* .container {
+    margin-left: auto;
+    margin-right: auto;
+} */
+/* colors: {
+    "weather-primary": "#00668A",
+    "weather-secondry": "#004E71",
+} */
